@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashmitsharma14
 - 👀 I’m interested in coding and love playing outside games
-- 🌱 I’m currently learning coding as i have a basic idea of python and java script
-- 💞️ I’m looking to collaborate on different projects regarding coding
+- 🌱 I have been coding in c++,javascript and python3.
+- 💞️ I’m looking to collaborate on different projects
 - 📫 You can reach me on instagram at @Ashmit_sharma, on linkedIn  at www.linkedin.com/in/ashmit-sharma-023490227
 
 <!---
